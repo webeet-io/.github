@@ -1,4 +1,4 @@
-
+---
 name: Data Integration Task
 about: Template for integrating new data sources into the database and building data layers
 title: "[Data Integration] #placeholder topic in #placeholder city"
