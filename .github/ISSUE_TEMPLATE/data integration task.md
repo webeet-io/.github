@@ -7,9 +7,7 @@ assignees: anastasia
 ---
 
 
-# ✅ POI Data Layer Integration Checklist
-
-This checklist outlines the process for integrating a new **Points of Interest (POI)** data layer into the database. The work should be completed in **3 PRs**, one for each major step.
+This issue outlines the process for integrating a new  data layer on topic **#placeholder** in **#placeholder** into the database. The work should be completed in **3 PRs**, one for each major step.
 
 ---
 
